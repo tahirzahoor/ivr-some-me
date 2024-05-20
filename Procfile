@@ -1,0 +1,1 @@
+web: gunicorn yivr-some-me.wsgi --log-file -
